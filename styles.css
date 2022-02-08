@@ -1,0 +1,28 @@
+body {
+  background: #1b2631;
+}
+header {
+  font-family: italic;
+  background:  #1b2631;
+  color: white;
+  text-align: center;
+}
+.primary-header {
+    font-family: italic;
+    margin-left: 290;
+}
+.img-html {
+  text-align: center;
+  }
+section {
+  font-family: system-iu;
+  background: black;
+  color: black;
+  text-align: center;
+}
+footer {
+  background: #000000;
+  font-family: italic;
+  text-align: center;
+  color: white;
+}
